@@ -1,7 +1,7 @@
 
 #include <stdbool.h>
 
-bool isPrintable(int** targetGrid, int targetGridSize, int *targetGridColSize)
-{
+bool isBoomerang(int** points, int pointsSize, int* pointsColSize){
+
     return (true);
 }
